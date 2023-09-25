@@ -1,0 +1,30 @@
+Model                  Evaluation Metrics
+
+XGBoost                 Accuracy: 94.70%
+                        Precision: 44.14%
+                        Recall: 42.70%
+                        F1 Score: 43.41%
+
+Random Forest           Accuracy: 96.19%
+                        Precision: 58.83%
+                        Recall: 66.62%
+                        F1 Score: 62.48% 
+
+SVC                     Accuracy: 96.85%
+                        Precision: 92.79%
+                        Recall: 36.60%
+                        F1 Score: 52.49%
+
+AdaBoost                Accuracy: 94.53%
+                        Precision: 39.62%
+                        Recall: 28.39%
+                        F1 Score: 33.08%
+
+Decision Tree           Accuracy: 93.12%
+                        Precision: 31.99%
+                        Recall: 39.49%
+                        F1 Score: 35.34%
+
+
+Above mentioned models gives the best accuracy,precision and recall.     
+                   

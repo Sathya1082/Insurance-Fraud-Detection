@@ -1,0 +1,12 @@
+KAGGLE:
+https://www.kaggle.com/code/bamboogong/eda-and-fraud-detection-with-downsampling
+https://www.kaggle.com/code/niteshyadav3103/insurance-fraud-detection-using-12-models
+
+CONCEPTS:
+https://www.analyticsvidhya.com/blog/2017/03/imbalanced-data-classification/
+https://medium.com/analytics-vidhya/sampling-statistical-approach-in-machine-learning-4903c40ebf86
+https://www.geeksforgeeks.org/understanding-hypothesis-testing/
+https://www.javatpoint.com/feature-selection-techniques-in-machine-learning
+https://www.analyticsvidhya.com/blog/2020/07/what-is-skewness-statistics/#Why_Is_Skewness_Important?
+https://www.analyticsvidhya.com/blog/2022/02/a-comprehensive-guide-on-hyperparameter-tuning-and-its-techniques/
+XGBoost vs RandomFroest

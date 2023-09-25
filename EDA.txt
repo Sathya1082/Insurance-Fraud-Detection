@@ -1,0 +1,99 @@
+EDA
+
+Age- 35-55(47%) 55-60(7.3%) 35-60(54% claims)
+
+Gender- Female(54.7%) (709282)
+
+Total frauds-7506
+Total claims-1296675
+
+#######################################################################################################
+(693 Total merchants)
+Merchant                             no. of claims
+fraud_Kilback LLC                       4403
+fraud_Cormier LLC                       3649
+fraud_Schumm PLC                        3634
+fraud_Kuhn LLC                          3510
+fraud_Boyer PLC                         3493
+
+#######################################################################################################
+
+Highest individual claims
+
+first   last    gender  claims  city
+Barbara Taylor	 F	    3123    Elberta
+Monica  Cohen	 F	    3123    Uledi
+Jessica Perez	 F	    3119    Superior
+Ana     Howell	 F	    3117    Bradley
+Keith   Sanders	 M	    3113    Moorhead
+
+879 unique customers have more than 500 claims out of 983 unique customers
+
+#######################################################################################################
+
+state  city          city_pop    Claims
+TX     San Antonio   1595797     5130
+AZ     Phoenix       1312922     5075
+TX     Houston       2906700     4168
+FL     Naples        276002      4155
+IN     Indianapolis  910148      4073
+
+Houston   2906700 highest population
+This 6 states contribute to 31% claims out of 51 states
+
+state claims
+TX    94876
+NY    83501
+PA    79847
+CA    56360
+OH    46480
+MI    46154
+
+########################################################################################################
+
+Top 5 categories contributes to 46% of claims out of 14 categories
+Category          Claims   
+gas_transport     131659
+grocery_pos       123638
+home              123115
+shopping_pos      116672
+kids_pets         113035
+
+Job                             Claims
+Film/video editor                 9779
+Exhibition designer               9199
+Naval architect                   8684
+Surveyor, land/geomatics          8680
+Materials engineer                8270
+
+#######################################################################################################
+
+
+Time - 23:00(67104) (Highest frequency)
+Afternoon-326573 (12:00-17:00) 25.18%
+Evening-262107 (17:01-21:00) 20.21%
+Early morning-254830 (00:00-06:00) 19.6%
+Morning-253546(06:01-11:59) 19.55%
+Night- 199619 (21:01-23:59) 15.39%
+
+
+2020    371825 27% claims (6 months)
+2019    924850 73% claims (12 months) 
+
+trans_year  trans_month    Claims
+2019        12             141060
+            8               87359
+            7               86596
+            6               86064
+            5               72532       
+
+2020        5               74343
+            3               72850
+
+
+#######################################################################################################
+
+Most no. of fraud claims have happened at 10 pm
+More than 50% of the fraud claims are done by Males
+[44% of total frauds happen in the age group 35-60]
+Houston is the city with the most no. of fraud claims and the maximum fraud claim amount
